@@ -69,7 +69,7 @@ function showHTML(data){
                     </div>
                     <div class="team2 match-team">
                         <div class="knockout__match-text match__api">
-                            <p>${match.goals.home}</p>
+                            <p>${match.goals.away}</p>
                             <img src="${match.teams.away.logo}" alt="Away logo">
                             <p>${match.teams.away.name}</p>
                         </div>
